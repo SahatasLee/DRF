@@ -2,3 +2,6 @@
 db.sqlite3
 .docker-compose.yml.swp
 test.txt
+/api/__pycache__
+/api/migrations
+/backend/__pycache__
