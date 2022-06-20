@@ -14,7 +14,7 @@ install requirements
 or run container docker
 `docker-compose up`
 
-run web
+## run web
 1. `python manage.py migrate`
 2. `python manage.py createsuperuser`
 3. `python manage.py runserver`
