@@ -9,7 +9,7 @@ activate
 `.\<env>\Scripts\activate #สำหรับฝั่ง windows`
 
 install requirements
-`python install -r requirements.txt`
+`pip install -r requirements.txt`
 
 or run container docker
 `docker-compose up`
